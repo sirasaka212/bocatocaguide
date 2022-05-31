@@ -1,11 +1,11 @@
 {
   "Ads": [
     {
-      "select_main_ads": "ADMOB",
+      "select_main_ads": "XXADMOBXX",
       "select_backup_ads":"APPLOVIN-D",
-      "main_ads_banner": "ca-app-pub-3562934263530498/9423271322",
-      "main_ads_intertitial":"ca-app-pub-3562934263530498/4613797773",
-      "native_for_admob":"ca-app-pub-3562934263530498/5926879445",
+      "main_ads_banner": "XXca-app-pub-3562934263530498/942327132XX2X",
+      "main_ads_intertitial":"XXca-app-pub-3562934263530498/4613797773XX",
+      "native_for_admob":"XXca-app-pub-3562934263530498/5926879445XX",
       "backup_ads_banner":"7bf2eb24eed4b644",
       "backup_ads_intertitial":"1917cc0265c36fab",
       "interval_intertitial": 5,
@@ -17,7 +17,7 @@
       "high_paying_keyword_4": "",
       "high_paying_keyword_5": "",
       "status_app": "1",
-      "link_redirect": "https://play.google.com/store/apps/details?id=com.playtimewuggypoppy.guide"
+      "link_redirect": "https://play.google.com/store/apps/details?id=com.encanto.mirabelmadrigalwallpaper"
     }
   ],
   "More":
